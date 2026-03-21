@@ -1,7 +1,7 @@
 ## Olá me Chamo Pedro Donola 👋
 
-- 🔭 Estou Trabalhando com Front-End
-- 🌱 Estou aprendendo mais sobre Python e Vue.js
+- 🔭 Estou atualmente tentando trabalhar com Front-End
+- 🌱 Estou aprendendo mais sobre Python, Vue.js e TypeScript
 - 📫 Como me achar: Mande mensagem pelo meu email ou entre no meu servidor do discord 
 - 😄 Pronomes: ele/dele
 - ⚡ Fatos divertidos: Gosto de fazer sites aleatórios e jogar com meus amigos, além de ler livros de diversos tipos
