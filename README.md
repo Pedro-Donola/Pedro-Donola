@@ -28,5 +28,5 @@
 ##
 
 <picture align="center">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-Donola/Pedro-Donola/blob/main/.github/workflows/cobrinha.yml">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-Donola/Pedro-Donola/blob/main/.github/workflows/cobrinha.yml](https://github.com/Pedro-Donola/Pedro-Donola/blob/main/.github/workflows/cobrinha.yml">
 </picture>
