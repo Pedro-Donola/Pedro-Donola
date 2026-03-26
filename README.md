@@ -1,4 +1,5 @@
-## Olá me Chamo Pedro Donola 👋
+## 
+Olá me Chamo Pedro Donola 👋
 
 - 🔭 Estou atualmente tentando trabalhar com Front-End
 - 🌱 Estou aprendendo mais sobre Python, Vue.js e TypeScript
@@ -8,9 +9,9 @@
 
 ##
 
- <h1>Sobre</h1>
+<h1>Sobre</h1>
 
-Olá, seja muito bem-vindo! 🤩🥰
+ Olá, seja muito bem-vindo! 🤩🥰
 
  Agradeço desde já por observar o meu perfil, e fico muito feliz de ter chamado sua atenção...
 
