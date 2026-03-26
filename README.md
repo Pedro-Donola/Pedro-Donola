@@ -8,6 +8,20 @@
 
 ##
 
+ <h1>Sobre</h1>
+
+Olá, seja muito bem-vindo! 🤩🥰
+
+ Agradeço desde já por observar o meu perfil, e fico muito feliz de ter chamado sua atenção...
+
+ Um pouco sobre mim: sou um Ex-Aluno da Etec de Francisco, com curso técnico em Informática para Internet cujo o objetivo é me tornar um bom programador, minha bagagem de conhecimentos se abrange principalmente: HTML, Lógica de Programação, CSS, Javascript, Arte Digital, Banco de Dados (MySQL), PHP, C e C++. E para consolidar os meus conhecimentos fiz o meu TCC cuja a moticação foi a de : Que a quantidade de pessoas(principalmente jovens) onde não se tem ideia de qual carreira escolher profissionalmente ou mesmo de alguma futura faculdade e/ou curso.
+
+ Espero que tenha gostado do que achou aqui!
+
+ 🙂🤗
+
+##
+
 <a href="https://github.com/Pedro-Donola/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Donola&theme=tokyonight&show_icons=true" />
 </a>
