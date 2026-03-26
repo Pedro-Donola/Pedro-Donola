@@ -20,7 +20,7 @@
 
 ##
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Donola&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Donola&show_icons=true&theme=tokyonight)
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Donola&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
