@@ -1,5 +1,4 @@
-## 
-Olá me Chamo Pedro Donola 👋
+## Olá me Chamo Pedro Donola 👋
 
 - 🔭 Estou atualmente tentando trabalhar com Front-End
 - 🌱 Estou aprendendo mais sobre Python, Vue.js e TypeScript
@@ -7,15 +6,13 @@ Olá me Chamo Pedro Donola 👋
 - 😄 Pronomes: ele/dele
 - ⚡ Fatos divertidos: Gosto de fazer sites aleatórios e jogar com meus amigos, além de ler livros de diversos tipos
 
-##
-
-<h1>Sobre</h1>
+## Sobre
 
  Olá, seja muito bem-vindo! 🤩🥰
 
  Agradeço desde já por observar o meu perfil, e fico muito feliz de ter chamado sua atenção...
 
- Um pouco sobre mim: sou um Ex-Aluno da Etec de Francisco, com curso técnico em Informática para Internet cujo o objetivo é me tornar um bom programador, minha bagagem de conhecimentos se abrange principalmente: HTML, Lógica de Programação, CSS, Javascript, Arte Digital, Banco de Dados (MySQL), PHP, C e C++. E para consolidar os meus conhecimentos fiz o meu TCC cuja a moticação foi a de : Que a quantidade de pessoas(principalmente jovens) onde não se tem ideia de qual carreira escolher profissionalmente ou mesmo de alguma futura faculdade e/ou curso.
+  Um pouco sobre mim: sou um Ex-Aluno da Etec de Francisco, com curso técnico em Informática para Internet cujo o objetivo é me tornar um bom programador, minha bagagem de conhecimentos se abrange principalmente: HTML, Lógica de Programação, CSS, Javascript, Arte Digital, Banco de Dados (MySQL), PHP, C e C++. E para consolidar os meus conhecimentos fiz o meu TCC cuja a moticação foi a de : Que a quantidade de pessoas(principalmente jovens) onde não se tem ideia de qual carreira escolher profissionalmente ou mesmo de alguma futura faculdade e/ou curso.
 
  Espero que tenha gostado do que achou aqui!
 
