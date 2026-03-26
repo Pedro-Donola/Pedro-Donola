@@ -20,8 +20,7 @@
 
 ##
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Donola)](https://github.com/Pedro-Donola/github-readme-stats)
-<a href="https://github.com/Pedro-Donola/convoychat">
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Donola&show_icons=true)
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Donola&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
